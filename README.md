@@ -1,6 +1,6 @@
 # 3dPathfinding
 
-## genetic algorithm
+## Genetic algorithm
 
 How many generations would you want?  
 200  
@@ -19,7 +19,7 @@ Total time : 110 ms
 ![image](https://user-images.githubusercontent.com/47123567/173066422-50c33d60-4011-48ee-abb6-b0780e015f0a.png)
 
 
-## insertion algorithm
+## Insertion algorithm
 
 Best found is : 63.27414215108453 in 42 ms  
 The way is : [[0, 0, 0], [1, 3, 0], [2, 6, 1], [2, 6, 2], [2, 9, 4], [2, 8, 6], [2, 6, 9], [4, 3, 9], [5, 4, 6], [3, 0, 4], [2, 0, 4], [3, 0, 8], [9, 2, 7], [9, 2, 4], [5, 5, 2], [6, 5, 3], [9, 5, 5], [8, 6, 5], [7, 8, 4], [7, 8, 8], [6, 9, 7]]  
