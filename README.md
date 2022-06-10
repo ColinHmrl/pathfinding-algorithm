@@ -2,8 +2,8 @@
 
 ## genetic algorithm
 
-How many generations would you want?
-200
+How many generations would you want? \\
+200 \\
 Current best is : 97.30700759856946 in 0 ms, at the 0th generation
 Current best is : 88.3000779743256 in 1 ms, at the 1th generation
 Current best is : 85.34555031703923 in 1 ms, at the 2th generation
